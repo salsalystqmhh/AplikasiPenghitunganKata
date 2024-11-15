@@ -44,6 +44,6 @@ Aplikasi Penghitungan Kata menawarkan fitur-fitur berikut:
 - **initComponents**: Metode untuk menginisialisasi komponen GUI, termasuk pengaturan tombol, label, dan text area.
 
 ## Demo
-
+![Demo GIF](img/tugas5.gif)
 
 note : Aplikasi ini dirancang untuk memberikan pengalaman yang mudah bagi pengguna yang ingin menghitung kata, mencari kata tertentu dalam teks, serta menyimpan hasil penghitungan ke dalam file dengan cepat dan efisien.
